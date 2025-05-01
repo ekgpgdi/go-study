@@ -28,4 +28,9 @@ func main() {
 
 	fmt.Println("==스위치 학습==")
 	grammar.Switch()
+
+	fmt.Println("==반복문==")
+	grammar.For()
+	grammar.ForRange()
+	grammar.Range()
 }
