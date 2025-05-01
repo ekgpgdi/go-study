@@ -33,4 +33,7 @@ func main() {
 	grammar.For()
 	grammar.ForRange()
 	grammar.Range()
+
+	fmt.Println("==함수==")
+	grammar.Call()
 }
