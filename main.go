@@ -17,6 +17,9 @@ func main() {
 	fmt.Println("==문자열 포맷팅 학습==")
 	grammar.StringFormat()
 
-	fmt.Println("==문자열 처리 (strings 패키지) ==")
+	fmt.Println("==문자열 처리 학습 (strings 패키지) ==")
 	grammar.StringsPackage()
+
+	fmt.Println("==문자열 -> 정수형 변환 학습 ==")
+	grammar.StringToInt()
 }
