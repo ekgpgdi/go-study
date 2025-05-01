@@ -22,4 +22,10 @@ func main() {
 
 	fmt.Println("==문자열 -> 정수형 변환 학습 ==")
 	grammar.StringToInt()
+
+	fmt.Println("==if문 학습==")
+	grammar.IfCondition()
+
+	fmt.Println("==스위치 학습==")
+	grammar.Switch()
 }
